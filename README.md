@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there! 👋 I'm Rodolfo
 
-<!--
-**taloc/taloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub 👨‍💻
 
-Here are some ideas to get you started:
+I'm a solutions-focused professional based in Canada with a knack for solving problems at the intersection of **data, business, and tech**. By day, I lead process improvement and digital transformation projects at UPS. By night (and sometimes early mornings ☕), I tinker with **SQL**, **Power BI**, and all things **data analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I'm Into
+
+- 📊 Building interactive dashboards and making data tell better stories
+- 🛠️ Streamlining logistics and eCommerce systems
+- 🧠 Mentoring future analysts through **Udacity**'s Data Science and Business Nanodegrees
+- 🔍 Exploring how AI and automation can enhance decision-making
+- 🚀 Always learning something new — whether it’s a tech tool or a productivity hack
+
+---
+
+## ⚡ A few projects I care about
+Here on GitHub, you'll mostly find:
+- SQL notebooks & interview prep materials
+- Power BI dashboards from real-world datasets
+- Automation scripts and data-cleaning utilities
+- Passion projects and experimental tools
+
+---
+
+## 🌐 Let's Connect!
+If you're into data, process optimization, or just want to chat about how tech is shaping our world:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodolfoyoshii/)
+- 🗂️ [My GitHub Projects](https://github.com/taloc)
+
+---
+
+> “The goal is not just to build things that work, but things that matter.”  
+Let’s build something cool. 😎
