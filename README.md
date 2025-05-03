@@ -29,7 +29,7 @@ Here on GitHub, you'll mostly find:
 If you're into data, process optimization, or just want to chat about how tech is shaping our world:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rodolfoyoshii/)
-- 🗂️ [My GitHub Projects](https://github.com/taloc)
+- x [X](https://x.com/RodolfoYoshii)
 
 ---
 
